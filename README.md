@@ -13,6 +13,10 @@ A React Native Android application for recording, transcribing, and summarizing 
 - ✅ Firebase integration setup
 - ✅ Local storage management
 - ✅ Settings persistence
+- ✅ **Calendar integration with smart meeting detection**
+- ✅ **Automatic platform detection (Zoom/Teams/Meet)**
+- ✅ **Smart notifications before meetings**
+- ✅ **One-tap join & record buttons**
 
 ### Upcoming Features
 - 🔄 **Phase 2**: High-quality audio recording with background support

@@ -211,6 +211,8 @@ Quick reference guide to all project documentation.
 - [x] CONTRIBUTING.md
 - [x] API_DOCUMENTATION.md
 - [x] DOCUMENTATION_INDEX.md (this file)
+- [x] MEETING_BOT_ARCHITECTURE.md (meeting bot vs smart recording)
+- [x] SMART_RECORDING_GUIDE.md (auto-join & record feature)
 
 ### Phase 2 (Upcoming)
 - [ ] AUDIO_RECORDING_GUIDE.md
